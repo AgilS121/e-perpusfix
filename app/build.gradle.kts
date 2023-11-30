@@ -52,6 +52,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
     implementation(platform("com.google.firebase:firebase-bom:32.6.0"))
     implementation("com.google.firebase:firebase-analytics")
+    implementation ("com.github.barteksc:android-pdf-viewer:2.8.2")
 
 
     implementation("androidx.activity:activity-ktx:1.8.0")
